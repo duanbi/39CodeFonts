@@ -5,5 +5,4 @@
 
 案例（以台湾发票为例，要求是19位，发票号码是测试的，为方便看，把条码的字放置成1号字体，需要打印出来扫描，图片的话稍微变动一下就会导致条码失真的情况）：
 
-条码内容： *1234567890123456789*
-不同的字体列印结果：
+ ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
